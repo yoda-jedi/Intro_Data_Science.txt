@@ -1,0 +1,20 @@
+chunked here:
+the AI's learn to how to learn through rules and logics that guide them to the desired outcomes.
+The algorithms improves and evoles on the results that are desired by the machine or the expert.,
+taking cats and dogs as examples they learn through perciving the world and making connections to necessity,pain and pleasure.
+
+But how do machine acheive this goals ?
+-> if machine percieves and analyzes what to do based on the stored datas(logics and rules). Then how does it evolve its logic./
+How machines learns through situations or teach other machines to learn (meta-learning).
+
+Neural Networks : 
+Expressiveness
+- Arbitary function approximation
+- Perceptron in 1958
+- ImageNet 2012.
+How the neural networks actually work ?
+=> They conclude and simply the complex picture to more simplistically abstract pattern that are interconnected through some relationships(The functions).
+It has beat up all other algorithms in image classification(ImageNet 2012). Neural networks tends to footprint the so called biological neural footprint.
+deliberate learning : learn about neurons behavour, the sigmoid functions.
+
+-different types of neural neteworks.
